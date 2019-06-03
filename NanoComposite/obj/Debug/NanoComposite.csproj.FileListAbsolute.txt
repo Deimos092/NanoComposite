@@ -1,0 +1,11 @@
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Debug\NanoComposite.exe.config
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Debug\NanoComposite.exe
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Debug\NanoComposite.pdb
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.csprojAssemblyReference.cache
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.Properties.Resources.resources
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.csproj.GenerateResource.cache
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.csproj.CoreCompileInputs.cache
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.exe
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.pdb
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.Main_Form.resources
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Debug\NanoComposite.CreateMaterial_Form.resources

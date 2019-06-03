@@ -1,0 +1,16 @@
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.CreateMaterial_Form.resources
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.Main_Form.resources
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.Properties.Resources.resources
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.csproj.GenerateResource.cache
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.csproj.CoreCompileInputs.cache
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Release\NanoComposite.exe.config
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Release\NanoComposite.exe
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Release\NanoComposite.pdb
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.exe
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.pdb
+e:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Release\NanoComposite.exe.manifest
+e:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\bin\Release\NanoComposite.application
+e:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.TrustInfo.xml
+e:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.exe.manifest
+e:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.application
+E:\Programming\FreeLance_Programming\C#\Нанокомпозиты#\NanoComposite\obj\Release\NanoComposite.csprojAssemblyReference.cache
